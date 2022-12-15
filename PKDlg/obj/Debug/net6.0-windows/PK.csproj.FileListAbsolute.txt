@@ -1,0 +1,121 @@
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\bin\Debug\net6.0-windows\PK.exe
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\bin\Debug\net6.0-windows\PK.deps.json
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\bin\Debug\net6.0-windows\PK.runtimeconfig.json
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\bin\Debug\net6.0-windows\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\bin\Debug\net6.0-windows\PK.pdb
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.PKDlg.resources
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.AssemblyInfo.cs
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\refint\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.pdb
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\PK.genruntimeconfig.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\Lab1\obj\Debug\net6.0-windows\ref\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.exe
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.deps.json
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.runtimeconfig.json
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.pdb
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\Lab1.PKDlg.resources
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfo.cs
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\refint\PK.dll
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.pdb
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.genruntimeconfig.cache
+C:\Users\Максим\Desktop\НепрерывныеСистемы\Lab1\PKDlg\obj\Debug\net6.0-windows\ref\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.exe
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.deps.json
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.runtimeconfig.json
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\bin\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.C.resources
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.L.resources
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.PKDlg.resources
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.R.resources
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.SIZE.resources
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfo.cs
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\refint\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\PK.genruntimeconfig.cache
+C:\Users\Evgeniy\Desktop\МНС\Lab1\PKDlg\obj\Debug\net6.0-windows\ref\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.exe
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.deps.json
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.runtimeconfig.json
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.C.resources
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.L.resources
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.PKDlg.resources
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.R.resources
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.RED.resources
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.SIZE.resources
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfo.cs
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\refint\PK.dll
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.genruntimeconfig.cache
+C:\Users\Evgeniy\Desktop\МНС\PK\PKDlg\obj\Debug\net6.0-windows\ref\PK.dll
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.exe
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.deps.json
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.runtimeconfig.json
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.dll
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.C.resources
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.L.resources
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.PKDlg.resources
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.R.resources
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.RED.resources
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.SIZE.resources
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfoInputs.cache
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfo.cs
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.dll
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\refint\PK.dll
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.genruntimeconfig.cache
+C:\Users\Evgeniy\Desktop\Уник и ещё всякое\МНС\PK\PKDlg\obj\Debug\net6.0-windows\ref\PK.dll
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.exe
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.deps.json
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.runtimeconfig.json
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.dll
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\bin\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.AssemblyReference.cache
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.C.resources
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.L.resources
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.PKDlg.resources
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.R.resources
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.RED.resources
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.SIZE.resources
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.GenerateResource.cache
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfoInputs.cache
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.AssemblyInfo.cs
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.dll
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\refint\PK.dll
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.pdb
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\PK.genruntimeconfig.cache
+C:\Users\Evgenii.Kulik\Desktop\Шарага\МНС\PK\PKDlg\obj\Debug\net6.0-windows\ref\PK.dll
